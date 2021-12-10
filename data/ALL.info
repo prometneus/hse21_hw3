@@ -1,7 +1,7 @@
-,id,condition
-c1,SRR3414629,control
-c2,SRR3414630,control
-c3,SRR3414631,control
-r1,SRR3414635,reprogramming
-r2,SRR3414636,reprogramming
-r3,SRR3414637,reprogramming
+sample,id,condition
+c1,SRR3414629,reprogramming
+c2,SRR3414630,reprogramming
+c3,SRR3414631,reprogramming
+r1,SRR3414635,control
+r2,SRR3414636,control
+r3,SRR3414637,control
