@@ -1,5 +1,5 @@
 # hse21_hw3
-I часть: https://colab.research.google.com/drive/1jmIFCTqD4-Pa1s1oCnnrQq_2ebqnFAdQ?usp=sharing
+## I часть: https://colab.research.google.com/drive/1jmIFCTqD4-Pa1s1oCnnrQq_2ebqnFAdQ?usp=sharing
 
 ## Статистика с MultiQC
 
@@ -34,7 +34,7 @@ I часть: https://colab.research.google.com/drive/1jmIFCTqD4-Pa1s1oCnnrQq_2e
 | **SRR3414636** | control | 20307147 | 19757059 | 17825380 | 15757580 |
 | **SRR3414637** | control | 20385570 | 19847291 | 17844858 | 15736978 |
 
-II часть: https://colab.research.google.com/drive/1bYcJcdM7h-lrldVjK6l3JpVHY81PlM3k?usp=sharing
+## II часть: https://colab.research.google.com/drive/1bYcJcdM7h-lrldVjK6l3JpVHY81PlM3k?usp=sharing
 
 Pheatmap:
 
