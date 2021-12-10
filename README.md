@@ -25,13 +25,33 @@ I часть: https://colab.research.google.com/drive/1jmIFCTqD4-Pa1s1oCnnrQq_2e
 
 ## Общая таблица со статистикой
 
-| ID образца | Тип образца  | Общее кол-во исходных чтений | Кол-во чтений, которые были успешно откартированы на геном (не уникально) | Процент | Кол-во чтений, которые были успешно откартированы на геном (уникально) | Процент | Общее кол-во чтений, которые попали на гены |
-|----------|:-------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
-| **SRR3414629** | reprogrammed | 21106089 | 20510113 | 97,2% | 18375888 | 87.1% | 16049609 |
-| **SRR3414630** | reprogrammed | 15244711 | 14832680 | 97,3% | 13186139 | 86.5% | 11465324 |
-| **SRR3414631** | reprogrammed | 24244069 | 23547686 | 97,1% | 20928945 | 86.3% | 18408851 |
-| **SRR3414635** | control | 20956475 | 10395865 | 97,3% | 18428317 | 88.0% | 16275997 |
-| **SRR3414636** | control | 20307147 | 19757059 | 97,3% | 17825380 | 87.8% | 15757580 |
-| **SRR3414637** | control | 20385570 | 19847291 | 97,4% | 17844858 | 87.5% | 15736978 |
+| ID sample | Type  | Total number of initial readings | Mapped reads | Uniquely mapped reads | Matches |
+|----------|:-------:|:----------------:|:----------------:|:----------------:|:----------------:|
+| **SRR3414629** | reprogrammed | 21106089 | 20510113 | 18375888 | 16049609 |
+| **SRR3414630** | reprogrammed | 15244711 | 14832680 | 13186139 | 11465324 |
+| **SRR3414631** | reprogrammed | 24244069 | 23547686 | 20928945 | 18408851 |
+| **SRR3414635** | control | 20956475 | 10395865 | 18428317 | 16275997 |
+| **SRR3414636** | control | 20307147 | 19757059 | 17825380 | 15757580 |
+| **SRR3414637** | control | 20385570 | 19847291 | 17844858 | 15736978 |
 
 II часть: https://colab.research.google.com/drive/1bYcJcdM7h-lrldVjK6l3JpVHY81PlM3k?usp=sharing
+
+Pheatmap:
+
+![image](https://user-images.githubusercontent.com/86663451/145627100-29ccba65-e3b3-46a9-987e-07746f202969.png)
+
+MA-график:
+
+![image](https://user-images.githubusercontent.com/86663451/145627029-6d6ef92d-d145-4b5c-bc63-d5cf39a9917b.png)
+
+Графики со значениями "Normalized counts":
+
+![image](https://user-images.githubusercontent.com/86663451/145628445-3e74b33a-b7da-4820-8961-a6fffff53613.png)
+
+![image](https://user-images.githubusercontent.com/86663451/145628483-93a9f00e-c96d-44b8-879d-71462be1a688.png)
+
+![image](https://user-images.githubusercontent.com/86663451/145628529-0fc215c8-bb09-47dc-9020-d17839495756.png)
+
+![image](https://user-images.githubusercontent.com/86663451/145628575-2467aa48-4069-40fd-93c8-8d6209f5d81d.png)
+
+![image](https://user-images.githubusercontent.com/86663451/145628633-cdd15391-b285-461a-a43d-e14be0833364.png)
