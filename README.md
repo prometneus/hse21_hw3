@@ -9,11 +9,11 @@ I часть: https://colab.research.google.com/drive/1jmIFCTqD4-Pa1s1oCnnrQq_2e
 
 ![image](https://user-images.githubusercontent.com/86663451/145616884-4fd0ac73-c1c6-4299-8760-28a3413458a5.png)
 
-Среднее качество хорошее, почти всё время держится в зелёной зоне.
+Среднее качество хорошее: всё время держится в зелёной зоне.
 
 ![image](https://user-images.githubusercontent.com/86663451/145617018-429ef0a6-ecc3-4eea-9999-67ffba931b31.png)
 
-Однако меня как-то смущает такое распределение GC состава.
+Однако меня как-то почему-то смущает такое распределение GC состава.
 
 ![image](https://user-images.githubusercontent.com/86663451/145617100-b3f4838b-d2f4-4e8f-ad41-a2edb2ede77b.png)
 
